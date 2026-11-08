@@ -1,4 +1,0 @@
-find dataset
-https://www.kaggle.com/datasets/danielgrijalvas/movies
-find notebook
-5:10
