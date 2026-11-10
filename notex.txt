@@ -1,0 +1,9 @@
+# notes
+# predicting revenue
+# Linear regression to predict gross from budget and votes.
+# Random forest to handle non-linear patterns and rank which features matter most.
+# Logistic regression if you turn it into a yes-or-no question, like “will this film make a profit?”
+# kad se sta koristi koji model
+# inflacija
+# recomendations
+# ftest da li su grupe homogene
